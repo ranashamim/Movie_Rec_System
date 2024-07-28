@@ -1,6 +1,6 @@
 # Data Folder
 
-The data are contained in six files. 
+The data are contained in six files (they are not allowed to upload because of their size).
 ### 1. tag.csv 
 It has four parameters, userId, movieId, tag and timestamp. It contains tags applied to movies by users.
 
